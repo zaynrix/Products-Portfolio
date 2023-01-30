@@ -1,6 +1,6 @@
 # Portfolio
 
-# Desing
+# Cryptok
 
 <p align="left">
 <img src="screenShots/Prev.png" />
