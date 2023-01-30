@@ -83,7 +83,7 @@
 # Quran (ISLAM SUBHI)
 
 <p align="left">
-<img src="screenShots/quran/Thumbnails.png" />
+<img src="screenShots/quran/Thumbnail.png" />
 
 [comment]: <> (<p align="center">)
 
