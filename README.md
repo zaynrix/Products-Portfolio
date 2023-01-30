@@ -1,16 +1,41 @@
-# products
+# Cryptok
 
-A new Flutter project.
+# Desing
 
-## Getting Started
+<p align="left">
+<img src="screenShots/Prev.png" />
 
-This project is a starting point for a Flutter application.
+# APK
 
-A few resources to get you started if this is your first Flutter project:
+  </p>
+<p align="left">
+<a href="https://drive.google.com/file/d/1ZtGqaoCdZM4ZjHKpViTDb42ujx97_NjS/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
+  </p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<p align="center">
+<img src="screenShots/Thumbnails.png"  />
+
+  </p>
+
+
+<p align="center">
+<img src="screenShots/Prev.png"  />
+
+  </p>
+<p align="center">
+<img src="screenShots/1.png" width="230" />
+<div>s
+<p align="center">
+  <img src="screenShots/2.png" width="230" />
+  ⚫
+  <img src="screenShots/3.png" width="230" /> 
+  ⚫
+  </p>
+
+
+
+</div>
+
+
