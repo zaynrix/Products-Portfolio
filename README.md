@@ -17,7 +17,7 @@
 <p align="center">
 <a href="https://drive.google.com/file/d/1ZtGqaoCdZM4ZjHKpViTDb42ujx97_NjS/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
  </p>
- 
+
 <p align="center">
   <img src="screenShots/1.png" width="230" />
 
@@ -25,10 +25,6 @@
 
   <img src="screenShots/3.png" width="230" /> 
 </p>
-
-
-
-
 
 # Shopper
 
@@ -38,7 +34,7 @@
 # APK
 
 <p align="center">
-<img src="screenShots/shopper/prev.png" width="150" />
+<img src="screenShots/shopper/prev.png" />
 
   </p>
 
