@@ -8,11 +8,11 @@
 # APK
 
   </p>
-<p >
+<p align="center">
 <a href="https://drive.google.com/file/d/1ZtGqaoCdZM4ZjHKpViTDb42ujx97_NjS/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
-
+<img src="screenShots/Thumbnails.png" width="150" />
  </p>
- <img src="screenShots/Thumbnails.png" width="150" />
+ 
 <p align="center">
   <img src="screenShots/1.png" width="230" />
 
