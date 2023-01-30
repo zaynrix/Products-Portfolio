@@ -113,7 +113,7 @@
 # Memory Game 
 
 <p align="left">
-<img src="screenShots/game/Thumbnail.png" />
+<img src="screenShots/game/Thumbnails.png" />
 
 [comment]: <> (<p align="center">)
 
