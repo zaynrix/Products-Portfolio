@@ -7,7 +7,7 @@
 
 # APK
 
-<p align="left">
+<p align="center">
 <img src="screenShots/Thumbnails.png" width="150" />
 
   </p>
