@@ -33,12 +33,12 @@
 # Shopper
 
 <p align="left">
-<img src="screenShots/shooper/Thumbnails.png" />
+<img src="screenShots/shopper/Thumbnails.png" />
 
 # APK
 
 <p align="center">
-<img src="screenShots/shooper/Prev.png" width="150" />
+<img src="screenShots/shopper/Prev.png" width="150" />
 
   </p>
 
