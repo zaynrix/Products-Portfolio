@@ -38,7 +38,7 @@
 # APK
 
 <p align="center">
-<img src="screenShots/shopper/Prev.png" width="150" />
+<img src="screenShots/shopper/prev.png" width="150" />
 
   </p>
 
