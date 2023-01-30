@@ -89,7 +89,6 @@
 
 [comment]: <> (<img src="screenShots/shopper/prev.png" />)
 
-[comment]: <> (  </p>)
 
 # APK
 <p align="center">
