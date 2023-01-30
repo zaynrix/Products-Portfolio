@@ -20,22 +20,7 @@
   </p>
 
 
-<p align="center">
-<img src="screenShots/Prev.png"  />
-
-  </p>
-<p align="center">
-<img src="screenShots/1.png" width="230" />
-<div>s
-<p align="center">
-  <img src="screenShots/2.png" width="230" />
-  ⚫
-  <img src="screenShots/3.png" width="230" /> 
-  ⚫
-  </p>
 
 
-
-</div>
 
 
