@@ -76,6 +76,27 @@
 </p>
 
 
+
+# APK
+<p align="center">
+<a href="https://drive.google.com/file/d/1ihCTSzrGt1y471M-JWwTt8LFbR1nYkm7/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
+ </p>
+
+# Tabibko
+
+<p align="left">
+<img src="screenShots/tabibk/Thumbnails.png" />
+
+[comment]: <> (<p align="center">)
+
+
+
+# APK
+<p align="center">
+<a href="https://drive.google.com/file/d/1aZRdixfzaGvQ_IqrOCQbrmedhnuTdzkc/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
+ </p>
+
+
 # Notey
 
 <p align="left">
@@ -116,27 +137,6 @@
 <img src="screenShots/game/Thumbnails.png" />
 
 [comment]: <> (<p align="center">)
-
-
-
-# APK
-<p align="center">
-<a href="https://drive.google.com/file/d/1ihCTSzrGt1y471M-JWwTt8LFbR1nYkm7/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
- </p>
-
-# Tabibko 
-
-<p align="left">
-<img src="screenShots/tabibk/Thumbnails.png" />
-
-[comment]: <> (<p align="center">)
-
-
-
-# APK
-<p align="center">
-<a href="https://drive.google.com/file/d/1aZRdixfzaGvQ_IqrOCQbrmedhnuTdzkc/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
- </p>
 
 
 
