@@ -44,6 +44,24 @@
 
 
 
+# Receptions
+
+<p align="left">
+<img src="screenShots/reception/Thumbnails.png" />
+
+[comment]: <> (<p align="center">)
+
+[comment]: <> (<img src="screenShots/shopper/prev.png" />)
+
+[comment]: <> (  </p>)
+
+# APK
+<p align="center">
+<a href="https://drive.google.com/file/d/1OnpWfsyBqVSY38xjCM6fHWHBRDZTVXFC/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
+ </p>
+
+
+
 [comment]: <> (<p align="center">)
 
 [comment]: <> (  <img src="screenShots/1.png" width="230" />)
