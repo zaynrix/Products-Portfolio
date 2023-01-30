@@ -32,6 +32,9 @@
 <img src="screenShots/shopper/Thumbnails.png" />
 
 # APK
+<p align="center">
+<a href="https://drive.google.com/file/d/1xl7bkY9usKwP4Yg2Z31stLjcxOEkE6yD/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
+ </p>
 
 <p align="center">
 <img src="screenShots/shopper/prev.png" />
@@ -40,9 +43,6 @@
 
 
 
-<p align="center">
-<a href="https://drive.google.com/file/d/1xl7bkY9usKwP4Yg2Z31stLjcxOEkE6yD/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
- </p>
 
 [comment]: <> (<p align="center">)
 
