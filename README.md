@@ -118,7 +118,7 @@
 
 # APK
 <p align="center">
-<a href="https://drive.google.com/file/d/1Xr_Crl8Qm3rbJ0Ca4PGB3tzuYS8QFu6c/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
+<a href="https://drive.google.com/file/d/19_eBjImGMNdst-qqaPFGa6HQCaHFJPHl/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
  </p>
 
 
