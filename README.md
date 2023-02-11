@@ -111,7 +111,7 @@
   <img src="screenShots/mapper/2.png" width="230" /> 
 
   <img src="screenShots/mapper/3.png" width="230" /> 
-  <img src="screenShots//mapper4.png" width="230" /> 
+  <img src="screenShots/mapper/4.png" width="230" /> 
   <img src="screenShots/mapper/5.png" width="230" /> 
 </p>
 
