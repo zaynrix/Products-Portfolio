@@ -104,7 +104,6 @@
 <p align="left">
 <img src="screenShots/mapper/Thumbnails.jpeg" />
 
-[comment]: <> (<p align="center">)
 <p align="center">
   <img src="screenShots/mapper/1.png" width="230" />
 
@@ -116,9 +115,6 @@
 </p>
 
 
-[comment]: <> (<img src="screenShots/shopper/prev.png" />)
-
-[comment]: <> (  </p>)
 
 # APK
 <p align="center">
