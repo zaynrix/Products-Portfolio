@@ -106,13 +106,13 @@
 
 [comment]: <> (<p align="center">)
 <p align="center">
-  <img src="screenShots/1.png" width="230" />
+  <img src="screenShots/mapper/1.png" width="230" />
 
-  <img src="screenShots/2.png" width="230" /> 
+  <img src="screenShots/mapper/2.png" width="230" /> 
 
-  <img src="screenShots/3.png" width="230" /> 
-  <img src="screenShots/4.png" width="230" /> 
-  <img src="screenShots/5.png" width="230" /> 
+  <img src="screenShots/mapper/3.png" width="230" /> 
+  <img src="screenShots//mapper4.png" width="230" /> 
+  <img src="screenShots/mapper/5.png" width="230" /> 
 </p>
 
 
