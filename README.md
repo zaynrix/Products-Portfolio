@@ -193,8 +193,7 @@
 # Flowerd 
 
 <p align="left">
-<img src="screenShots/game/Thumbnails.png" />
-![flowerd](https://github.com/zaynrix/products/assets/28483872/6830299a-80bd-4b49-bcaf-d5f263699634)
+<img src="[screenShots/game/Thumbnails.png](https://github.com/zaynrix/products/assets/28483872/6830299a-80bd-4b49-bcaf-d5f263699634)" />
 
 [comment]: <> (<p align="center">)
 
