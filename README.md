@@ -46,6 +46,7 @@
 
 [comment]: <> (<p align="center">)
 
+<img width="960" alt="Bildschirmfoto 2023-08-10 um 19 14 04" src="https://github.com/zaynrix/products/assets/28483872/4e97ef12-535c-4e31-a687-3b7b64a1220f">
 
 
 # APK
