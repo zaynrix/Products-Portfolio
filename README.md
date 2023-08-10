@@ -45,8 +45,7 @@
 <img src="screenShots/dawak/Thumbnails.png" />
 
 [comment]: <> (<p align="center">)
-
-<img width="960" alt="Bildschirmfoto 2023-08-10 um 19 14 04" src="https://github.com/zaynrix/products/assets/28483872/4e97ef12-535c-4e31-a687-3b7b64a1220f">
+<img width="1210" alt="Bildschirmfoto 2023-08-10 um 19 15 52" src="https://github.com/zaynrix/products/assets/28483872/f025155f-4af8-4a82-88f3-94c7575693d5">
 
 
 # APK
