@@ -1,5 +1,19 @@
 # Portfolio
 
+
+
+# Pet Care
+
+![Detail Images 3](https://github.com/zaynrix/products/assets/28483872/ea47b075-c6e9-408a-9fea-e99997ceb3e9)
+![Detail Images 5](https://github.com/zaynrix/products/assets/28483872/23ed8e50-05b9-407e-85af-52a8da81c41e)
+![Detail Images 7 1](https://github.com/zaynrix/products/assets/28483872/aa7b4466-35f6-4ea1-8a9f-af8191c106c8)
+
+
+# APK
+<p align="center">
+<a href="https://drive.google.com/file/d/1xl7bkY9usKwP4Yg2Z31stLjcxOEkE6yD/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
+ </p>
+
 # Trus Home
 
 ![1](https://github.com/zaynrix/products/assets/28483872/232343fb-75fe-445f-9a94-a1190c231f86)
