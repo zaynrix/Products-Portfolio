@@ -1,6 +1,12 @@
 # Portfolio
 
 
+# Talents Valley - Freelancer Fintech App
+
+The Freelancer Fintech App is designed to serve as an MVP solution for freelancers, teams, and clients within the local market. It offers a streamlined way to withdraw earnings using local payment methods while maintaining cross-platform compatibility between mobile devices and web browsers.
+
+![Talents Valley](https://github.com/TechValleyLLC/.github/assets/28483872/fbec51d8-3e7b-4681-92ea-7fad5654644b)
+
 
 # Pet Care
 ![Detail Images 7 1](https://github.com/zaynrix/products/assets/28483872/aa7b4466-35f6-4ea1-8a9f-af8191c106c8)
