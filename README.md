@@ -1,5 +1,4 @@
-![Thumbnail 2](https://github.com/zaynrix/Products-Portfolio/assets/28483872/82a43a24-8a85-45fb-bc87-7743e10f881c)# Portfolio
-
+# Portfolio
 
 # Trainer - GYM App
 ![Thumbnail](https://github.com/zaynrix/products/assets/28483872/c1a5c474-54b8-4369-a652-decf5aaa329e)
@@ -18,7 +17,6 @@ The Freelancer Fintech App is designed to serve as an MVP solution for freelance
 
 # Pet Care
 ![Detail Images 7 1](https://github.com/zaynrix/products/assets/28483872/aa7b4466-35f6-4ea1-8a9f-af8191c106c8)
-
 ![Detail Images 3](https://github.com/zaynrix/products/assets/28483872/ea47b075-c6e9-408a-9fea-e99997ceb3e9)
 ![Detail Images 5](https://github.com/zaynrix/products/assets/28483872/23ed8e50-05b9-407e-85af-52a8da81c41e)
 
@@ -32,6 +30,7 @@ The Freelancer Fintech App is designed to serve as an MVP solution for freelance
 Food Delivery - Food App
 ![Thumbnail](https://github.com/zaynrix/Products-Portfolio/assets/28483872/8ef1bee7-350f-4c25-b4ef-4a0ac75164bc)
 ![Thumbnail 2](https://github.com/zaynrix/Products-Portfolio/assets/28483872/ed181c1c-ff95-400a-812e-95d7b50e74a0)
+
 
 
 
