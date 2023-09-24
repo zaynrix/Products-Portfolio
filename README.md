@@ -1,8 +1,12 @@
 # Portfolio
 
 
-# Talents Valley - Freelancer Fintech App
+# Trainer - GYM App
+![Thumbnail](https://github.com/zaynrix/products/assets/28483872/c1a5c474-54b8-4369-a652-decf5aaa329e)
+![Thumbnail-1](https://github.com/zaynrix/products/assets/28483872/c0b93403-dd69-465b-aeaa-44fe12559a39)
 
+
+# Talents Valley - Freelancer Fintech App
 The Freelancer Fintech App is designed to serve as an MVP solution for freelancers, teams, and clients within the local market. It offers a streamlined way to withdraw earnings using local payment methods while maintaining cross-platform compatibility between mobile devices and web browsers.
 
 ![Talents Valley](https://github.com/TechValleyLLC/.github/assets/28483872/fbec51d8-3e7b-4681-92ea-7fad5654644b)
