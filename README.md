@@ -1,4 +1,4 @@
-# Portfolio
+![Thumbnail 2](https://github.com/zaynrix/Products-Portfolio/assets/28483872/82a43a24-8a85-45fb-bc87-7743e10f881c)# Portfolio
 
 
 # Trainer - GYM App
@@ -6,10 +6,14 @@
 ![Thumbnail-1](https://github.com/zaynrix/products/assets/28483872/c0b93403-dd69-465b-aeaa-44fe12559a39)
 
 
+
+
 # Talents Valley - Freelancer Fintech App
 The Freelancer Fintech App is designed to serve as an MVP solution for freelancers, teams, and clients within the local market. It offers a streamlined way to withdraw earnings using local payment methods while maintaining cross-platform compatibility between mobile devices and web browsers.
 
 ![Talents Valley](https://github.com/TechValleyLLC/.github/assets/28483872/fbec51d8-3e7b-4681-92ea-7fad5654644b)
+
+
 
 
 # Pet Care
@@ -23,6 +27,13 @@ The Freelancer Fintech App is designed to serve as an MVP solution for freelance
 <p align="center">
 <a href="https://drive.google.com/file/d/1xl7bkY9usKwP4Yg2Z31stLjcxOEkE6yD/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
  </p>
+![Thumbnail](https://github.com/zaynrix/Products-Portfolio/assets/28483872/5bd15aa0-db43-4fa7-b70e-b82faca23480)
+
+Food Delivery - Food App
+![Thumbnail](https://github.com/zaynrix/Products-Portfolio/assets/28483872/8ef1bee7-350f-4c25-b4ef-4a0ac75164bc)
+![Thumbnail 2](https://github.com/zaynrix/Products-Portfolio/assets/28483872/ed181c1c-ff95-400a-812e-95d7b50e74a0)
+
+
 
 # Trus Home
 
