@@ -6,6 +6,10 @@
 
 
 
+# APK
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.tecvaley.tecnogym" target="_blank"><img src="screenShots/download.png" width="300"></a>
+ </p>
 
 # Talents Valley - Freelancer Fintech App
 The Freelancer Fintech App is designed to serve as an MVP solution for freelancers, teams, and clients within the local market. It offers a streamlined way to withdraw earnings using local payment methods while maintaining cross-platform compatibility between mobile devices and web browsers.
@@ -23,18 +27,24 @@ The Freelancer Fintech App is designed to serve as an MVP solution for freelance
 
 # APK
 <p align="center">
-<a href="https://drive.google.com/file/d/1xl7bkY9usKwP4Yg2Z31stLjcxOEkE6yD/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
+<a href="https://play.google.com/store/apps/details?id=com.techvalley.petcare" target="_blank"><img src="screenShots/download.png" width="300"></a>
  </p>
+
+
 ![Thumbnail](https://github.com/zaynrix/Products-Portfolio/assets/28483872/5bd15aa0-db43-4fa7-b70e-b82faca23480)
 
-Food Delivery - Food App
+Food Delivery - Food App (MEAL MONKEY)
 ![Thumbnail](https://github.com/zaynrix/Products-Portfolio/assets/28483872/8ef1bee7-350f-4c25-b4ef-4a0ac75164bc)
 ![Thumbnail 2](https://github.com/zaynrix/Products-Portfolio/assets/28483872/ed181c1c-ff95-400a-812e-95d7b50e74a0)
 
 
+# APK
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.techvalley.food_delivery" target="_blank"><img src="screenShots/download.png" width="300"></a>
+ </p>
 
 
-# Trus Home
+# Trust Home
 
 ![1](https://github.com/zaynrix/products/assets/28483872/232343fb-75fe-445f-9a94-a1190c231f86)
 ![2](https://github.com/zaynrix/products/assets/28483872/55e15537-a3f4-4e45-8e6c-cfb5e39e3239)
@@ -179,7 +189,7 @@ Food Delivery - Food App
 
 # APK
 <p align="center">
-<a href="https://drive.google.com/file/d/1Xr_Crl8Qm3rbJ0Ca4PGB3tzuYS8QFu6c/view?usp=sharing" target="_blank"><img src="screenShots/download.png" width="300"></a>
+<a href="https://play.google.com/store/apps/details?id=com.tecvaley.notienziert" target="_blank"><img src="screenShots/download.png" width="300"></a>
  </p>
 
 
